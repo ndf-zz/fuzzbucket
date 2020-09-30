@@ -18,7 +18,7 @@ one of the audio inputs, to add some extra colour.
 
 ## Overview
 
-![Display Arrangement](fuzzbucket_block.svgz "Block Diagram")
+![Block Diagram](fuzzbucket_block.svg "Block Diagram")
 
 Two audio inputs are scaled and mixed before being fed into
 a 4096 stage delay line. Input channel A passes through
@@ -75,8 +75,8 @@ Full and partial kit options available at
 
  - Schematic: [PDF](fuzzbucket_schematic-1.1.pdf)
  - BoM: [CSV](fuzzbucket_bom.csv)
- - Muff Wiggler: [fuzzbucket delay/fuzz euro SMT 8hp](https://muffwiggler.com/forum/viewtopic.php?f=17&t=214588): 
- - Synthcube: [https://synthcube.com/]
+ - Muff Wiggler: [fuzzbucket delay/fuzz euro SMT 8hp](https://muffwiggler.com/forum/viewtopic.php?f=17&t=214588)
+ - Synthcube: https://synthcube.com/
 
 ## Acknowledgements
 
